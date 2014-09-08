@@ -41,16 +41,16 @@ Broadband internet creates opportunities for people in Shutesbury that do not cu
  - Allows Shutesbury residents to start internet-based businesses
  - Connects Shutesbury residents to the rest of the world in a way they are not now
  - Increases the value of our homes - many home buyers will not consider a property that does not have broadband
- - Makes quality-of-life enhancing services such as [Telehelp](http://www.ncbi.nlm.nih.gov/pubmed/7694919) available to citizens of Shutesbury
+ - Makes quality-of-life enhancing services such as [Telehelp](http://www.ncbi.nlm.nih.gov/pubmed/7694919) available to citizens of Shutesbury. This will be particularly valuable to the elderly and to those on fixed incomes.
 
 
 ### The Situation Today
 
-At the moment, a handful of households in Shutesbury have broadband internet via Verizon DSL, which is slow when compared with the options in nearby towns;  some households pay high rates for satellite-based internet, which is fast but suffers from high latency and outages during bad weather.  Some parts of town have cellular phone signals and can use that, usually with limited data plans, and also subject to weather-related outages.
+At the moment, a handful of households in Shutesbury have broadband internet via Verizon DSL, which is slow when compared with the options in nearby towns;  some households pay high rates for satellite-based internet, which is faster but suffers from high latency, limits on data transfers, and outages during bad weather.  Some parts of town have cellular phone signals and can use that, usually with limited data plans, but are also subject to weather-related outages.
 
 Over the last 20 years, various companies have hinted at or even promised to deliver broadband internet to Shutesbury.  None of them have done so, and there is little reason to - Shutesbury has relatively few households and low population density.  Because it abuts the Quabbin Reservoir, Shutesbury is not on the way to any place with more potential customers.  So the return on investment for commercial internet access is not there.
 
-We believe an investment in broadband internet access in Shutesbury can pay for itself, but on a 20-30 year time horizon - the kind of investment government can make, but which businesses that need to produce shorter-term profits for shareholders cannot.  The private market has had more than twenty years to solve this problem in Shutesbury.  It has not.
+We believe an investment in broadband internet access in Shutesbury can pay for itself, but on a 20 year time horizon - the kind of investment government can make, but which businesses that need to produce shorter-term profits for shareholders cannot.  The private market has had more than twenty years to solve this problem in Shutesbury.  It has not.
 
 There is almost certain to be funding available from the state to defray the costs if we do this in the near future - the recent [IT bond bill](http://www.mma.org/economic-a-community-development/13518-it-bond-bills-passed-by-house-senate-would-fund-high-speed-internet-in-rural-areas) means that funds will be available if we act very soon, making this a good time to invest in broadband in Shutesbury.
 
@@ -59,9 +59,14 @@ Our neighboring town, Leverett, is mid-way through installing such a network, an
 Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "municipal lighting plants" of towns in Western Massachusetts.  A municipal lighting plant (MLP) is a legal entity belonging to the town which may legally provide telecommunications services such as telephone and internet.
 
 
+### But my internet is fast enough - Why Fiber?
+Ten years ago, high speed dial up was "fast." Today, that same speed is nearly useless for internet access. In 10 years, current DSL speeds will seem antiquated. Even if you don't see your use increasing, the bulk of society will. As today for those with only dial up access, even with DSL your home will soon be difficult to sell and, relative to similar homes in neighboring towns, you will take a $20,000 to $50,000 loss when you do sell. Many technologies such as telemedicine will require rapid and reliable higher speed access.
+Indeed, many of the new subscribers in Leverett are simply happy to get reliable phone service with their new fiber internet plans. They will be able to drop their traditional phone lines (which cut out when it rains), saving that expense.
+The copper lines currently providing DSL to some homes in Shutesbury are antiquated and providers have no interest in replacing them (and they reluctantly repair them only as absolutely needed). This is a dying technology that providers do not want to invest in.
+
 ## Entities And Terminology
 
- * **Municipal Lighting Plant (MLP)** - A legal entity under [Chapter 164 of Massachusetts General Laws](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164/Section47E), which belongs to the town and can deliver telecommunications services, which includes internet service.  Shutesbury has one.
+ * **Municipal Lighting Plant (MLP)** - A legal entity under [Chapter 164 of Massachusetts General Laws](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164/Section47E), which belongs to the town and can legally deliver telecommunications services, which includes internet service.  Shutesbury has one.
 
  * [**Wired West**](http://wiredwest.net/) is a cooperative of 40+ towns - specifically, it's a cooperative for 40+ municipal lighting plants - in Western Massachusetts which are working together to bring broadband to all 40+ communities.  Shutesbury has the option of building this network as part of a *regional network* administered by WiredWest, or taking Leverett's approach of simply building its own network.
 
