@@ -61,7 +61,8 @@ Shutesbury is a member of the cooperative WiredWest, a non-profit coalition of "
 
 ### But my internet is fast enough - Why Fiber?
 Ten years ago, high speed dial up was "fast." Today, that same speed is nearly useless for internet access. In 10 years, current DSL speeds will seem antiquated. Even if you don't see your use increasing, the bulk of society will. As today for those with only dial up access, even with DSL your home will soon be difficult to sell and, relative to similar homes in neighboring towns, you will take a $20,000 to $50,000 loss when you do sell. Many technologies such as telemedicine will require rapid and reliable higher speed access.
-Indeed, many of the new subscribers in Leverett are simply happy to get reliable phone service with their new fiber internet plans. They will be able to drop their traditional phone lines (which cut out when it rains), saving that expense.
+
+Many of the new subscribers in Leverett are simply happy to get reliable phone service with their new fiber internet plans. They will be able to drop their traditional phone lines (which cut out when it rains), saving that expense.
 The copper lines currently providing DSL to some homes in Shutesbury are antiquated and providers have no interest in replacing them (and they reluctantly repair them only as absolutely needed). This is a dying technology that providers do not want to invest in.
 
 ## Entities And Terminology
